@@ -43,6 +43,7 @@ class ViewController: UIViewController {
     }
     
     @objc func NotifyCenterControlFunc(){
+        //
         LinkFieldGetFunctions()
     }
     
